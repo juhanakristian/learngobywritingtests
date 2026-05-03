@@ -1,3 +1,3 @@
-module example.com/hello
+module learngobywritingtests 
 
 go 1.25.2
